@@ -1,0 +1,40 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+}
+
+.swim-lanes {
+  min-height: 60vh;
+}
+
+.taskCard:hover {
+  cursor: grab;
+}
+
+.taskCard {
+  max-width: 100%;
+  padding: 5%
+}
+
+.cardDeleteButton {
+  float: right;
+}
+
+.past-due {
+  background-color: rgb(248, 3, 3);
+}
+
+.due-soon {
+  background-color: rgb(245, 150, 9);
+}
+
+.due-later {
+  background-color: rgb(6, 235, 6);
+}
+
+#todo-cards,
+#in-progress-cards,
+#done-cards {
+  min-height: 100%;
+  min-width: 100%;
+}
