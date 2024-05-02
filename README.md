@@ -40,7 +40,9 @@ THEN the saved tasks persist
 ![2024-05-02](https://github.com/javimari/third-party-api-week-5-challenge-task-board/assets/158850178/dcc62154-1f30-419b-ac98-3bf7400507df)
 
 
-![image](https://github.com/javimari/third-party-api-week-5-challenge-task-board/assets/158850178/8bca9c63-6bb3-4438-94ea-dbc1d8d0ae97)
+
 
 ```
+![2024-05-02](https://github.com/javimari/third-party-api-week-5-challenge-task-board/assets/158850178/1d3acf10-3297-4f31-bfbb-c3daede8a30f)
+
 
